@@ -1,3 +1,4 @@
 My first file
 edit data for branch to_delete
 Hello git!
+Hello rebase in master
